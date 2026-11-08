@@ -1,0 +1,1 @@
+{"description":"BitChord addon serving lossless FLAC from the Internet Archive","engines":{"node":">=18.17"},"name":"bitchord-ia-flac-addon","private":true,"scripts":{"start":"node server.js"},"version":"1.0.0"}
